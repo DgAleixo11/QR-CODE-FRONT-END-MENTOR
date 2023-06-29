@@ -95,7 +95,7 @@ Este desafio é totalmente gratuito. Por favor, compartilhe com qualquer pessoa 
 
 
 
-ENG
+EN
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
